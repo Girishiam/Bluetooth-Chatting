@@ -1,2 +1,2 @@
 # Bluetooth-Chatting
-It's  a simple python project developed in 2020
+It's  a simple python project developed using socket library in 2020
